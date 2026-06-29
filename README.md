@@ -18,8 +18,8 @@ I trained this on roughly 175K English-French sentence pairs, capped at 20 token
 | Dataset | ~175K English-French sentence pairs |
 | Max sentence length | 20 tokens |
 | Architecture | 4 encoder + 4 decoder layers, `d_model=256`, 8 heads |
-| Greedy BLEU (full test set) | *fill in* |
-| Beam Search BLEU (full test set, beam=4) | **42** |
+| Greedy BLEU (full test set) | *39* |
+| Beam Search BLEU (full test set, beam=4) | **40** |
 
 ## Features
 
